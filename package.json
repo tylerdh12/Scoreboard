@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-course",
+  "name": "react-redux",
   "version": "1.0.0",
-  "description": "React-Redux course for Treehouse",
+  "description": "React-Redux",
   "main": "src/index.js",
   "scripts": {
     "prestart": "npm run lint",
@@ -15,7 +15,7 @@
     "redux",
     "treehouse"
   ],
-  "author": "Beau Palmquist",
+  "author": "Tyler Harper",
   "license": "MIT",
   "dependencies": {
     "react": "^15.3.2",
